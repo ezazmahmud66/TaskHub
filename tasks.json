@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Day01 Variable Learning",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Day02 Loop Learning",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Day03 Function Learning",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Day04 OOP Learning",
+    "completed": false
+  }
+]
